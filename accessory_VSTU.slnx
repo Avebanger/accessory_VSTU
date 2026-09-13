@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="accessory_VSTU/accessory_VSTU.vcxproj" />
+  <Project Path="accessory_VSTU/accessory_VSTU.vcxproj" Id="9fbdb236-cfa0-4d85-a358-e2075869a2af" />
 </Solution>
